@@ -48,7 +48,5 @@ public:
         return val;
     }
 
-    bool isEmpty(){
-        return front == nullptr;
-    }
+
 };
